@@ -92,9 +92,6 @@ bike-sales-powerbi-dashboard/
 
 ## 👤 Author
 
-**Ali Essam Abdelhakeem**, Data Engineer & Analyst, Cairo, Egypt
+**Ali Essam Abdelhakeem**
 [GitHub](https://github.com/ali-essam2002) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
