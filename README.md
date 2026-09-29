@@ -73,7 +73,6 @@ bike-sales-powerbi-dashboard/
 │   ├── dashboard-preview.png
 │   └── coursera-certificate.png
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
